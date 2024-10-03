@@ -1,5 +1,6 @@
 E-Commerce Application
-This repository contains a fully functional e-commerce web application built using JavaScript, CSS, Java, and HTML. The application provides a platform for users to browse products, add items to the cart, and complete the checkout process. The backend handles product management, order processing, and user authentication.
+
+This repository contains a fully functional e-commerce web application, with a clean and modern user interface for browsing, adding items to the cart, and completing purchases. The application is developed using JavaScript, CSS, Java, and HTML, and is designed to be responsive and user-friendly.
 
 Tech Stack
 The project is developed using the following technologies:
@@ -9,12 +10,12 @@ Java : Manages backend operations such as user authentication, database interact
 HTML : Provides the structural elements of the web pages.
 
 Features
-Product Browsing: Users can browse a variety of products, filter them by categories, and search for specific items.
-Shopping Cart: Items can be added to the cart and removed. Cart updates dynamically as users interact with it.
+Product Listing: Displays a clean and visually appealing layout of products. Users can browse products and see relevant details such as price and manufacturer.
+Shopping Cart: Users can add products to their cart with a single click, and the cart updates dynamically.
+Responsive Design: The app is designed to be fully responsive, adapting to different screen sizes for an optimal user experience.
 User Authentication: Secure user login and registration using the backend Java service.
-Checkout Process: Users can proceed to checkout, review their order, and complete the purchase.
-Responsive Design: The application is fully responsive and mobile-friendly, ensuring a seamless experience across devices.
-Admin Panel: Admins can manage products, view orders, and update the product catalog (optional).
+Dark Mode: The application supports a sleek dark mode UI to reduce eye strain and enhance the overall visual appeal.
+
 
 Installation
 Prerequisites
